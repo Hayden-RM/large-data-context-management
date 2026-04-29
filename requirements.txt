@@ -1,0 +1,10 @@
+anthropic
+openai
+tiktoken
+numpy
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+jupyter
+python-dotenv
